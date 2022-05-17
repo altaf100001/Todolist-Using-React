@@ -1,0 +1,13 @@
+.todo{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-left: %; */
+    
+    width: 20%;
+    margin: auto;
+    margin-top: 20px;
+}
+.striked{
+    text-decoration: line-through;
+}
